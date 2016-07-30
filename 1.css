@@ -1,0 +1,371 @@
+﻿
+body{
+	background:#ffebd2 url("image/bg.jpg") no-repeat top center;
+	
+}
+	
+.bjt{
+    width:1440px;
+	height:2000px;
+	overflow:hidden;
+	margin-left:auto; 
+	margin-right: auto;
+}
+.flash{
+	margin:35px 0px 0px 412px;
+
+	right;
+}
+.logo{
+	float:left;
+	margin:0px 0px 0px 90px;
+}
+.top{
+      background-color: rgba(0,0,0,0.1) ; 
+	  height:150px;
+	  
+} 
+.topzerostyle{
+	list-style:none;
+	padding:0px;
+	  margin:0px;
+}
+.topfirststyle{
+	  font:160%/2em KaiTi;
+      color:white;
+	  padding:0px 20px;
+	  margin:0px;
+	  list-style:none;
+	 
+	  }
+.fr{
+	float:left;
+	padding:0px 0px 0px 0px;
+	margin:0px;
+	height:150px;
+	
+}
+.current{
+	color:red;
+}
+.topsecondstyle1{
+	list-style-image:url("image/hot.jpg");
+	padding:0px 0px 0px 0px; 
+	 color:white;
+	 font-size:100%;
+	line-height:1.8em;
+	margin-left:40px;
+	
+}
+.topsecondstyle2{
+	list-style-image:url("image/new.jpg");
+	 color:white;
+	  font-size:100%;
+	 line-height:1.8em;
+	 padding:0px;
+	 	margin-left:40px;
+}
+.topsecondstyle3{
+	list-style:none;
+	 font-size:100%;
+	 color:white;
+	 line-height:1.8em;
+	 padding:0px 0px 0px 0px; 
+	 	margin-left:40px;
+}
+.top2{
+	float:left; 
+	position: relative; 
+	top: 20px; 
+	right:-1100px;
+	color:#7DFC22;
+	font-size:12px;
+}
+.top3{
+	float:left; 
+	position: relative; 
+	top: -40px; 
+	right:0px;
+	
+}
+.zxhd{
+	background:#41261e url("image/t_bg.jpg") repeat-x ;
+	width:838px;
+	height:257px;
+	 position: relative;
+  float:left;
+    top: 50px;
+	left:-185px;
+}
+.rmhd{
+	background:#41261e url("image/t_bg.jpg") repeat-x ;
+	width:838px;
+	height:209px;
+	 position: relative;
+  float:left;
+    top: 60px;
+	left:-185px;
+}
+.ksdh{
+	background:#90683b url("image/q_bg.jpg");
+	width:222px;
+	height:476px;
+	float:left;
+	position: relative;
+	left:-215px;
+    top: 50px;
+}
+
+.zxhdbt{
+	list-style:none;
+	float:left;
+    position: relative;
+    left: 0px;
+    top: 0px;
+	height:37px;
+}
+.zxhdbt1{
+	color:#c6afa8;
+	width:102px;
+	height:37px;
+	font-size:18px;
+	float:left;
+	list-style:none;
+
+text-align:center; 
+line-height: 37px;
+	}
+.zxhdbt2{
+	color:#c6afa8;
+	width:102px;
+	height:37px;
+	font-size:18px;
+	float:left;
+	list-style:none;
+	
+	text-align:center; 
+line-height: 37px;
+}
+.zxhdbt3{
+	color:#c6afa8;
+	width:102px;
+	height:37px;
+	font-size:18px;
+	float:left;
+	list-style:none;
+	
+text-align:center; 
+line-height: 37px;
+}
+.zxhdbt4{
+	color:#c6afa8;
+	width:102px;
+	height:37px;
+	font-size:18px;
+	float:left;
+	list-style:none;
+	
+text-align:center; 
+line-height: 37px;
+}
+.rmhdetc{
+	list-style:none;
+	float:left;
+	text-align:center;
+	padding:1px;
+	margin:0px 6px;
+	font-size:13px;
+	line-height:23px;
+	color:#ce8a54;
+	
+}
+.sgsqq{
+	border: 1px solid #90683b;
+	background:#ecd4b7 url("image/box1.jpg") no-repeat;
+	width:221px;
+	height:151px;
+	position: relative;
+    left: -437px;
+    top: 80px;
+	float:left;
+}
+.sgsqq1{
+	width:221px;
+	height:37px;
+	text-align:center;
+	line-height:37px;
+	font-size:18px;
+	color:#6a4b29;
+	font-weight:bold;
+}
+.sgsqq2{
+	list-style-image:url("image/li-style.jpg");
+	line-height:37px;
+	color:#90683b;
+	margin-left:20px;
+}
+.sgskf{
+	background:#ecd4b7;
+	border: 1px solid #90683b;
+	width:221px;
+	height:250px;
+	position: relative;
+    left: -660px;
+    top: 240px;
+	float:left;
+}
+.sgskf1{
+	width:221px;
+	height:37px;
+	text-align:center;
+	line-height:37px;
+	font-size:18px;
+	color:#6a4b29;
+	font-weight:bold;
+	background:#ecd4b7 url("image/box1.jpg") no-repeat;
+	float:left;
+}
+.sgskf2{
+	text-indent:30px;
+	line-height:35px;
+	font-size:14px;
+	font-weight:bold;
+	width:221px;
+	color:#90683b;
+	float:left;
+}
+.sgskf2 img{
+	padding:0px 18px;
+}
+.sgskf3{
+	list-style-image:url("image/qq-logo.jpg");
+	line-height:37px;
+	color:#90683b;
+	margin-left:35px;
+	font-size:14px;
+	float:left;
+	width:221px;
+}
+#div1{float:left;}
+#div1 ul{float:left;width:3440px;position:absolute;left:0;top:0}
+#div1{width:430px;height:257px;background:red;position:relative;margin:0px auto;overflow:hidden;}
+#div1 ul li{float:left;list-style:none;}
+#zxhdzx{float:left;width:38%;margin-left:30px;line-height:20px;font-size:13px;margin-top:10px;}
+#zxhdzx a{text-decoration:none;color:#f4ce5a;}
+#zxhdzx2{float:left;width:5%;line-height:20px;font-size:13px;margin-top:15px;}
+#zxhdzx2 a{text-decoration:none;color:#f4ce5a;}
+#zxhdzxtop{
+	text-align:center;line-height:45px;font-size:16px;color:#00fcff;
+	border-bottom:1px dotted #755f59;
+	margin-left:33px;
+	width:352px;
+	float:left;
+	font-weight:bold ;
+}
+#zxhdzxbottom{
+	line-height:20px;font-size:13px;
+	list-style:none;
+	float:right;
+	margin-right:26px;
+	color:#ce8a54;
+}
+#gamelist{
+	float:left;
+	width:565px;
+	height:214px;
+	position: relative; 
+	background:#ecd4b7;
+	left:410px;
+    top: -171px;
+	border:1px solid #b9976e;
+}
+#gamelist1{
+	
+	width:565px;
+	height:36px;
+	background:url("image/box2-title.jpg");
+	
+	
+}
+#gamelist1 img{
+	position: relative; 
+	left:5px;
+    top: -5px;
+}
+#gamelist1 span{
+	float:right;
+	position: relative; 
+	left:-32px;
+    top: 12px;
+	
+	color:#563615;
+}
+#gamelist1 div{
+	height:11px;
+	width:11px;
+	background:url("image/more.jpg") red;
+	float:right;
+	position: relative; 
+	left:10px;
+    top: 14px;
+}
+#gamelist2{
+	width:82px;
+	height:129px;
+	background:#ecd4b7;
+	float:left;
+	color:#563615;
+	font-weight:bold;
+	font-size:14px;
+	padding-left:20px;
+	line-height:35px;
+	
+}
+#gamepic1{
+	width:469px;
+	height:165px;
+	background:#ffebd2;
+	float:left;
+	position: absolute; 
+    left:82px;
+    top: 36px;
+	z-index:999;
+}
+.gamepiclist{
+	width:57px;
+	height:71px;
+	text-align:center;
+    float:left;
+	color:#90683b;
+	margin:10px 4px 0px 6px;
+}
+#gamepic2{
+	width:469px;
+	height:165px;
+	background:#ffebd2;
+	float:left;
+	position: absolute; 
+	left:82px;
+    top: 36px;
+	z-index:0;
+}
+#gamepic3{
+	width:469px;
+	height:165px;
+	background:#ffebd2;
+	float:left;
+	position: absolute; 
+    left:82px;
+    top: 36px;
+	z-index:0;
+}
+#gamepic4{
+	width:469px;
+	height:165px;
+	background:#ffebd2;
+	float:left;
+	position: absolute; 
+    left:82px;
+    top: 36px;
+	z-index:0;
+}
